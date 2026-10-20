@@ -6,7 +6,7 @@
 ![DAX](https://img.shields.io/badge/DAX-00C9E8?style=for-the-badge&logo=microsoft&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![HTML5](https://img.shields.io/badge/Custom_HTML/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva_&_Layout_Gen-081015?style=for-the-badge&logo=canva&logoColor=00C9E8)
+![Canva](https://img.shields.io/badge/Canva_&_BI_Layout_Generator-081015?style=for-the-badge&logo=canva&logoColor=00C9E8)
 
 > **An end-to-end Healthcare Business Intelligence solution designed with professional UI/UX to transform fragmented clinical, operational, and financial telemetry into actionable executive insights.**
 
