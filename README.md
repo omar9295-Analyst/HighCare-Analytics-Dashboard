@@ -68,10 +68,10 @@ Healthcare institutions process massive volumes of daily operational and financi
 ---
 
 ## 🛠️ Technical Stack
-* **Data Cleaning** Python(Pandas) , Power Quey
-* **Business Intelligence:** Microsoft Power BI Desktop
+* **Data Cleaning & ETL:** Python (Pandas), Power Query (M Language)
+* **Business Intelligence & Cloud:** Microsoft Power BI Desktop (`.pbip`), Power BI Service (Live Cloud Deployment)
 * **Data Modeling & Calculations:** Star Schema Architecture, Advanced DAX (Time Intelligence, Dynamic KPIs, Cohort Ratios)
-* **UI/UX & Custom Visuals:** Canva, Custom HTML/CSS Card Components
+* **UI/UX & Custom Visuals:** Canva, Power BI Layout Generator, Custom HTML/CSS Card Components
 
 ---
 
