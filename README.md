@@ -1,4 +1,4 @@
-# HighCare-Analytics-Dashboard
+# HighCare-Medical-Intelligence-System/
 # 🏥 HighCare — Interactive Medical Intelligence & Analytics System
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
