@@ -19,7 +19,7 @@
 ## 🎯 Business Context & Core Challenge
 Healthcare institutions process massive volumes of daily operational and financial records. However, critical metrics—such as room occupancy ceilings, emergency influx, physician workloads, and insurance claim distributions—often remain locked in isolated departmental silos. 
 
-**HighCare** bridges this gap by unifying 5 core analytical modules into a single interactive cockpit, enabling hospital leadership to monitor real-time performance and execute data-driven decisions.
+**HighCare** bridges this gap by unifying 5 core analytical aspects into a single interactive cockpit, enabling hospital leadership to monitor real-time performance and execute data-driven decisions.
 
 ---
 
