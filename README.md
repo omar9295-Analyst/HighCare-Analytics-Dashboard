@@ -34,29 +34,29 @@ Healthcare institutions process massive volumes of daily operational and financi
 ## 📸 Dashboard Modules & Key Insights
 
 ### 1. Command Center (Home)
-![Home Screen](./Assets/01_Home_Menu.png)
+![Home Screen](./Assets/main_menu.png)
 
 ### 2. Overview & Financial Performance
 * **Total Revenue Tracked:** **$1,277.66M** across all medical operations (**90.9%** vs. target), with a daily revenue average of **$1,661** (87.0% achievement against the $1,910 target).
 * **Condition Revenue Drivers:** Balanced revenue generation led by **Diabetes ($215.07M)**, **Arthritis ($215.05M)**, and **Obesity ($213.78M)**.
 * **Admission Channel Mix:** Even revenue distribution across **Elective ($431.04M | 37.9% share / 15,141 cases)**, **Urgent ($428.28M)**, and **Emergency ($418.34M)** admissions.
-![Overview Module](./Assets/02_Overview.png)
+![Overview Module](./Assets/Overview.png)
 
 ### 3. Hospitals & Facility Utilization
 * **Capacity Monitoring:** Tracks **400 occupied rooms** (87.0% utilization rate, leaving 60 rooms free for surge capacity) and **14,778 active ER cases** (37.0% of total intake).
-![Hospitals Module](./Assets/03_Hospitals.png)
+![Hospitals Module](./Assets/Hospital.png)
 
 ### 4. Patient Demographics & Clinical Retention
 * **Patient Cohort:** **39,948** total registered patients evenly split (**50.0% Male / 50.0% Female**).
 * **Retention & Diagnostics:** Monitors a **14.8% returning patient rate** alongside a **33.6% abnormal test result** indicator.
 * **Condition × Age Matrix:** Highlights high-risk demographic intersections, such as elevated **Arthritis** volume within the **72–85 age cohort (1,813 cases)**.
-![Patients Module](./Assets/04_Patients.png)
+![Patients Module](./Assets/Patients.png)
 
 ### 5. Clinical Workforce (Doctors) & Payer Intelligence (Insurance)
 * **Consultation Velocity:** Tracks **49,614 medical consultations** (**+7.5%** growth vs. Same Period Last Year) to balance physician workloads.
 * **Payer Concentration:** Identifies **Medicare** as the leading insurance provider, accounting for **20.2% of total hospital revenue**.
-![Doctors Module](./Assets/05_Doctors.png)
-![Insurance Module](./Assets/06_Insurance.png)
+![Doctors Module](./Assets/Doctors.png)
+![Insurance Module](./Assets/Companies.png)
 
 ---
 
