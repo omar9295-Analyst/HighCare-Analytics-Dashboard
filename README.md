@@ -13,7 +13,7 @@
 ## 📌 Quick Links
 * 🌐 **[Explore Live Interactive Dashboard (Power BI Service)](https://app.powerbi.com/links/qyQocVBGZa?ctid=eaf624c8-a0c4-4195-87d2-443e5d7516cd&pbi_source=linkShare)**
 * 📊 **[Download Executive Presentation (PDF)](./Presentation/HighCare_Executive_Deck.pdf)**
-* 💻 **[Download Power BI Dashboard (.pbip)](./Dashboard/HighCare.pbip)**
+* 💻 **[Download Power BI Dashboard (.pbix)](./Dashboard/HighCare.pbix)**
 ---
 
 ## 🎯 Business Context & Core Challenge
