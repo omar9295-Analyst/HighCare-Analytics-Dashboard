@@ -11,7 +11,7 @@
 
 ## 📌 Quick Links
 * 📊 **[Download Executive Presentation (PDF)](./Presentation/HighCare_Executive_Deck.pdf)**
-* 💻 **[Download Power BI Dashboard (.pbix)](./Dashboard/HighCare.pbip)**
+* 💻 **[Download Power BI Dashboard (.pbip)](./Dashboard/HighCare.pbip)**
 
 ---
 
