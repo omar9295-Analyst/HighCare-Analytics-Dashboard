@@ -6,8 +6,7 @@
 ![HTML5](https://img.shields.io/badge/Custom_HTML/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/Dark_SaaS_UI-081015?style=for-the-badge&logo=figma&logoColor=00C9E8)
 
-> **An end-to-end Healthcare Business Intelligence solution designed with a sleek Dark SaaS interface (`#081015` / `#00C9E8`) to transform fragmented clinical, operational, and financial telemetry into actionable executive insights.**
-
+> **An end-to-end Healthcare Business Intelligence solution designed with professional UI/UX to transform fragmented clinical, operational, and financial telemetry into actionable executive insights.**
 ---
 
 ## 📌 Quick Links
@@ -68,9 +67,10 @@ Healthcare institutions process massive volumes of daily operational and financi
 ---
 
 ## 🛠️ Technical Stack
+* **Data Cleaning** Python(Pandas) , Power Quey
 * **Business Intelligence:** Microsoft Power BI Desktop
 * **Data Modeling & Calculations:** Star Schema Architecture, Advanced DAX (Time Intelligence, Dynamic KPIs, Cohort Ratios)
-* **UI/UX & Custom Visuals:** Figma, Canva, Custom HTML/CSS Card Components
+* **UI/UX & Custom Visuals:** Canva, Custom HTML/CSS Card Components
 
 ---
 
@@ -78,5 +78,5 @@ Healthcare institutions process massive volumes of daily operational and financi
 **Omar Ahmed Ramadan Abdelaziz**  
 *Data Analyst | GIS Specialist*  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/omarahmed123)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omar9295-Analyst)
