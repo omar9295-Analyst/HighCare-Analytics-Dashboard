@@ -55,7 +55,7 @@ Healthcare institutions process massive volumes of daily operational and financi
 ### 5. Clinical Workforce (Doctors) & Payer Intelligence (Insurance)
 * **Consultation Velocity:** Tracks **49,614 medical consultations** (**+7.5%** growth vs. Same Period Last Year) to balance physician workloads.
 * **Payer Concentration:** Identifies **Medicare** as the leading insurance provider, accounting for **20.2% of total hospital revenue**.
-![Doctors Module](./Assets/Doctors.png)
+![Doctors Module](./Assets/Doctor.png)
 ![Insurance Module](./Assets/Companies.png)
 
 ---
