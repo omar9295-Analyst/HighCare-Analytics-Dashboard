@@ -73,11 +73,23 @@ Healthcare institutions process massive volumes of daily operational and financi
 * **Data Modeling & Calculations:** Star Schema Architecture, Advanced DAX (Time Intelligence, Dynamic KPIs, Cohort Ratios)
 * **UI/UX & Custom Visuals:** Canva, Power BI Layout Generator, Custom HTML/CSS Card Components
 
----
+<!-- استبدل الروابط دي بالروابط الحقيقية لصورتك والبروفايل بتاعك -->
+<p align="center">
+  <img src="(https://avatars.githubusercontent.com/u/290219320?s=400&u=da58e3a3e03b7966a5d29a3e033d893e1c0e4ceb&v=4
+)" alt="صورة شخصية لعمر أحمد رمضان" width="100" height="100" style="border-radius: 50%;">
+</p>
+<h3 align="center">Author</h3>
 
-## 👤 Author
-**Omar Ahmed Ramadan Abdelaziz**  
-*Data Analyst | GIS Specialist*  
+<p align="center">
+  <b>Omar Ahmed Ramadan Abdelaziz</b><br/>
+  <i>Data Analyst | GIS Specialist</i>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/omarahmed123)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omar9295-Analyst)
+<p align="center">
+  <a href="www.linkedin.com/in/omarahmed123">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/omar9295-Analyst">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
