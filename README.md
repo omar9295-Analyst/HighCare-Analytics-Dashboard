@@ -75,8 +75,9 @@ Healthcare institutions process massive volumes of daily operational and financi
 
 <!-- استبدل الروابط دي بالروابط الحقيقية لصورتك والبروفايل بتاعك -->
 <p align="center">
-  <img src="(https://drive.google.com/file/d/1nVU0LRf3LGBsh8aMqsyBX_te0BexaVDw/view?usp=drive_link)" alt="صورة شخصية لعمر أحمد رمضان" width="100" height="100" style="border-radius: 50%;">
+  <img src="https://drive.google.com/file/d/1nVU0LRf3LGBsh8aMqsyBX_te0BexaVDw/view?usp=drive_link" alt="صورة شخصية لعمر أحمد رمضان" width="100" height="100" style="border-radius: 50%;">
 </p>
+
 <h3 align="center">Author</h3>
 
 <p align="center">
