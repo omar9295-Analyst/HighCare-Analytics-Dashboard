@@ -44,7 +44,7 @@ Healthcare institutions process massive volumes of daily operational and financi
 
 ### 3. Hospitals & Facility Utilization
 * **Capacity Monitoring:** Tracks **400 occupied rooms** (87.0% utilization rate, leaving 60 rooms free for surge capacity) and **14,778 active ER cases** (37.0% of total intake).
-![Hospitals Module](./Assets/Hospital.png)
+![Hospitals Module](./Assets/Hospitals.png)
 
 ### 4. Patient Demographics & Clinical Retention
 * **Patient Cohort:** **39,948** total registered patients evenly split (**50.0% Male / 50.0% Female**).
